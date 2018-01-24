@@ -6,3 +6,5 @@ Inspired by [Andrej Karpathy's blog](https://karpathy.github.io/2016/05/31/rl/).
 
 Code partly from [Pytorch DQN Tutorial](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 
+Solved in 500 episodes:
+[Alt text](./graph.png "Avg Reward")
